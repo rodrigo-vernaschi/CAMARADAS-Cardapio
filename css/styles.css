@@ -1,0 +1,52 @@
+@font-face {
+    font-family: Anton;
+    src: url(../fonts/Anton-Regular.ttf);
+ }
+
+a {
+   text-decoration: none;
+}
+
+ html, body {
+   font-family: Anton !important;
+   background-color: black;
+   background-image: url("../img/bg.fw.png");
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   max-width: 500px;
+   min-width: 374px;
+   margin: 0 auto;
+ }
+
+ .content {
+   margin-bottom: 50px;
+   background-color: rgba(0, 0, 0, 0.5);
+ }
+
+ .container {
+    border-color: #D67522 !important;
+ }
+
+ h1 {
+    /*text-decoration: underline #D67522 4px;*/
+    display: inline-block;
+    padding-bottom: 1px;
+    position: relative;
+ }
+
+ h1:before {
+    content: "";
+    position: absolute;
+    width: 65%;
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    border-bottom: 4px solid #D67522;
+ }
+
+.text-nomes {
+    font-size: 20px;
+}
+.text-ingredientes {
+    font-size: 12px !important;
+}
