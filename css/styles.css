@@ -10,7 +10,7 @@ a {
  html, body {
    font-family: Anton !important;
    background-color: black;
-   background-image: url("../img/bg.fw.png");
+   background-image: url("../img/bg.jpg");
    background-repeat: no-repeat;
    background-attachment: fixed;
    max-width: 500px;
