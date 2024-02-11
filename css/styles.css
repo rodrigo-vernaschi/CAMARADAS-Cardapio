@@ -34,7 +34,11 @@ a {
 	box-sizing: border-box; 
    border-color: #D67522 !important;
    margin-top: 10px;
-   margin-bottom: 50px !important;
+   margin-bottom: 60px !important;
+ }
+
+ .menu {
+   padding-bottom: 10px !important;
  }
 
  .container_social {
