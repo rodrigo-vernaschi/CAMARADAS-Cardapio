@@ -13,26 +13,26 @@ a {
    background-image: url("../img/bg.jpg");
    background-repeat: no-repeat;
    background-attachment: fixed;
-   max-width: 500px;
+   max-width: 550px;
    min-width: 374px;
    margin: 0 auto;
  }
 
  .content {
+   margin: 0;
+   padding: 10px;
    margin-bottom: 50px;
    background-color: rgba(0, 0, 0, 0.5);
  }
 
  .container {
-    border-color: #D67522 !important;
+   padding-top: 10px;
+   border-color: #D67522 !important;
  }
 
  .container_social {
    width: 100%;
    justify-content: center;
- }
- .social {
-   width: auto;
  }
 
  h1 {
@@ -57,4 +57,8 @@ a {
 }
 .text-ingredientes {
     font-size: 12px !important;
+}
+
+.footer p {
+   font-size: 12px;
 }
