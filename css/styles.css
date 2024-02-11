@@ -27,6 +27,14 @@ a {
     border-color: #D67522 !important;
  }
 
+ .container_social {
+   width: 100%;
+   justify-content: center;
+ }
+ .social {
+   width: auto;
+ }
+
  h1 {
     /*text-decoration: underline #D67522 4px;*/
     display: inline-block;
