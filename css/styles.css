@@ -11,15 +11,12 @@ a {
    display: flex;
    font-family: Anton !important;
    background-color: black;
-   max-width: 550px;
-   min-width: 300px;
-   margin: 0 auto;
- }
-
- body {
    background-image: url("../img/bg.jpg");
    background-repeat: no-repeat;
    background-attachment: fixed;
+   max-width: 550px;
+   min-width: 300px;
+   margin: 0 auto;
  }
 
  .content {
