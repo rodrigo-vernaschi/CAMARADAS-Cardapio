@@ -63,6 +63,14 @@ a {
     border-bottom: 4px solid #D67522;
  }
 
+.text-categorias {
+   font-size: 22px;
+   text-decoration: underline;
+   text-decoration-color: #D67522;
+   text-decoration-thickness: 4px;
+   margin-bottom: 10px;
+}
+
 .text-nomes {
     font-size: 20px;
 }
